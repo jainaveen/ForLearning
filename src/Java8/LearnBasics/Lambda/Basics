@@ -1,0 +1,15 @@
+
+It is a function that has no name and uses a functional approach to execute code.
+the lambda expression is also known as an anonymous function.
+
+() -> System.out.println("executing lambda expression."); // zero argument, lambda expression
+
+(String str) -> System.out.print(str); // single argumment, lambda expression
+
+(int a, int b) -> a+b; // multiple arguments, sum of two values
+
+(a,b) -> a+b // parameters without types, can be used to sum and concat two strings as well.
+
+(int a, int b) -> return (a+b); // lambda expression with return statement
+
+(int[]) -> { multiple statments; return index; }   // it can have multiple statements
