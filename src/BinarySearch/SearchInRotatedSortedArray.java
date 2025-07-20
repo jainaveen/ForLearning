@@ -1,4 +1,4 @@
-package BinarySearch.Medium;
+package BinarySearch;
 
 public class SearchInRotatedSortedArray {
 

@@ -1,4 +1,4 @@
-package BinarySearch.Medium;
+package BinarySearch;
 import java.util.*;
 public class InsertDeleteGetRandom {
 
